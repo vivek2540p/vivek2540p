@@ -12,7 +12,7 @@ I'm **Vivek Vaghasiya**, a passionate developer with expertise in building web a
 
 ## 🛠️ Projects
 
-### [LangChain Chatbot](https://github.com/vivek2540p/langchain-chatbot)
+### [LangChain Chatbot](https://github.com/vivek2540p/langchain_RetrievalQA_Chatbot)
 An AI-powered chatbot utilizing LangChain for interactive and context-aware.
 
 ### [Hospital Management System](https://github.com/vivek2540p/Hospital-Management-System)
